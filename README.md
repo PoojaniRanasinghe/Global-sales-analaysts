@@ -47,7 +47,7 @@ This dataset was used to create an interactive dashboard for sales and profit in
 ---
 
 ## 👩‍💻 Author
-**R.A. Ranasinghe**  
+**Poojani Ranasinghe**  
 Undergraduate, Uva Wellassa University of Sri Lanka  
 
 ---
